@@ -9,7 +9,7 @@
 <!-- Imagen principal -->
 <p align="center">
   <!-- Reemplaza la ruta cuando tengas tu imagen -->
-  <img src="images/banner.png" alt="Banner" width="100%">
+  <img src="c8f7b076-b9f0-488a-9ddd-81e637179391.png" alt="Banner" width="50%">
 </p>
 
 ### Estudiante de Ingeniería en Computación
@@ -42,6 +42,12 @@ Mi objetivo es desarrollar software de calidad mientras continúo aprendiendo nu
 <img src="https://skillicons.dev/icons?i=github" height="60"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=powershell" height="60"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
 
 </p>
 
@@ -52,6 +58,9 @@ Mi objetivo es desarrollar software de calidad mientras continúo aprendiendo nu
 | Git | Básico |
 | GitHub | Básico |
 | C++ | Básico |
+| Postgres | Básico |
+| Powershell | Básico |
+| Vs Code | Básico |
 
 </div>
 
