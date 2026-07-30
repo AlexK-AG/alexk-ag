@@ -9,15 +9,16 @@
 <!-- Imagen principal -->
 <p align="center">
   <!-- Reemplaza la ruta cuando tengas tu imagen -->
-  <img src="c8f7b076-b9f0-488a-9ddd-81e637179391.png" alt="Banner" width="50%">
+  <img src="https://github.com/AlexK-AG/alexk-ag/blob/6ce45c1f662005b816caf33bf98ea321089e6162/ChatGPT%20Image%2030%20jul%202026%2C%2005_11_08%20p.m..png" alt="Banner" width="100%">
 </p>
 
 ### Estudiante de Ingeniería en Computación
 
+<img src="https://vocacionalcse.com/assets/img/udg/LogosUDG_CID-CUCEI.png" width="300">
+
 **Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)**  
 **Universidad de Guadalajara**
 
-<img src="https://vocacionalcse.com/assets/img/udg/LogosUDG_CID-CUCEI.png" width="300">
 
 </div>
 
